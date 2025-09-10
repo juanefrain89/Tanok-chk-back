@@ -1,0 +1,31 @@
+{
+  "name": "huella",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "awilix": "^12.0.5",
+    "axios": "^1.10.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1",
+    "multer": "^2.0.2",
+    "mysql2": "^3.14.1",
+    "ngx-daterangepicker-bootstrap": "^19.5.5",
+    "node-fetch": "^3.3.2",
+    "node-zklib": "^1.3.0",
+    "nodemon": "^3.1.10",
+    "path": "^0.12.7",
+    "sequelize": "^6.37.7",
+    "zkteco-js": "^1.7.1"
+  }
+}
